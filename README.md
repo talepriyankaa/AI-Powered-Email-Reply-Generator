@@ -6,8 +6,9 @@ An AI-based web application that generates professional email replies automatica
 
 ## 📸 Application Screenshot
 
+
 <p align="center">
-  <img src="Eamil-project.png" alt="Email Reply Generator UI" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a10974b7-5817-4780-8ac7-3a288245dcde" alt="Email Reply Generator UI" width="800"/>
 </p>
 
 ---
@@ -112,7 +113,7 @@ Thank you for your email. I am available tomorrow at 3 PM...
 
 ## 👩‍💻 Author 
 
-**Priyanka**
+**Priyanka Tale**
 
 ---
 
